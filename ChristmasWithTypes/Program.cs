@@ -21,7 +21,7 @@ namespace ChristmasWithTypes
 
             Console.WriteLine($"This year christmas falls on {xmasDay} \n");
             Console.WriteLine($"Our tree will be {xmas.TreeHeight} feet high \n");
-            Console.WriteLine("Here are the presents we would like:");
+            Console.WriteLine("Here are the presents we would for you like:");
 
             foreach (var present in xmas.Presents)
             {
